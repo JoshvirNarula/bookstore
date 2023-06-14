@@ -1,0 +1,19 @@
+{
+  "name": "book_shop",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshvirNarula/bookstore.git"
+  },
+  "author": "josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshvirNarula/bookstore/issues"
+  },
+  "homepage": "https://github.com/JoshvirNarula/bookstore#readme"
+}
